@@ -38,11 +38,13 @@ Room 503, Zetong Building, Yuquan Campus, Zhejiang University, 38 Zheda Road, We
 
 #### Journal
 
-- **Jin L**, He B, Weng G, et al. Madlens: Investigating into android in-app ad practice at api granularity[J]. IEEE Transactions on Mobile Computing, 2019.
+- [**Jin L**, Cao Y, Chen Y, et al. EXGEN: Cross-platform, Automated Exploit Generation for Smart Contract Vulnerabilities[J]. IEEE Transactions on Dependable and Secure Computing, 2022.](https://ieeexplore.ieee.org/document/9674230)
+
+- [**Jin L**, He B, Weng G, et al. Madlens: Investigating into android in-app ad practice at api granularity[J]. IEEE Transactions on Mobile Computing, 2019.](https://ieeexplore.ieee.org/document/8901140)
 
 #### Conference
 
-- He B, Xu H, **Jin L**, et al. An investigation into android in-app ad practice: Implications for app developers[C]//IEEE INFOCOM 2018-IEEE Conference on Computer Communications. IEEE, 2018: 2465-2473.
+- [He B, Xu H, **Jin L**, et al. An investigation into android in-app ad practice: Implications for app developers[C]//IEEE INFOCOM 2018-IEEE Conference on Computer Communications. IEEE, 2018: 2465-2473.](https://ieeexplore.ieee.org/document/8486010)
 
 ----
 ----
