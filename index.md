@@ -64,15 +64,22 @@ Room 503, Zetong Building, Yuquan Campus, Zhejiang University, 38 Zheda Road, We
 
 ### Project
 
-#### 0. Security Issues in Smart Contracts on Emerging Blockchain Platforms
+#### 4. Cloud Native Security
+
+- Internship at Magic Shield (Hangzhou, Zhejiang)
+- November 2021 - Present
+- Market Research, Competitive Analysis and Product Architecture Design
+- Implement functional modules including Image Vulnerability Scanning and Benchmark Testing
+
+#### 3. Security Issues in Smart Contracts on Emerging Blockchain Platforms
 
 - Lab for Internet and Security Technology (LIST) of Zhejiang University
-- August 2018 - Present
+- August 2018 - January 2022
 - Use static techniques such as backward dataflow analysis and symbolic execution to analyze smart contracts on emerging blockchain platforms (Ethereum, EOS, etc.) to find integer overflows.
 - Automatically generate exploits to validate vulnerabilities.
 - Compile smart contracts (written in different languages) on different platforms into the LLVM IR to support unified static analysis, thus implementing a scalable vulnerability detection system.
 
-#### 1. Measurement Study of Android In-app Advertisements
+#### 2. Measurement Study of Android In-app Advertisements
 
 - Lab for Internet and Security Technology (LIST) of Zhejiang University
 - September 2016 - August 2018
@@ -81,7 +88,7 @@ Room 503, Zetong Building, Yuquan Campus, Zhejiang University, 38 Zheda Road, We
 - Static analysis at API granularity: Scan the smali codes of Android apps to find the APIs of third-party ad libraries. Then, map the APIs to specific ad types.
 - Statistically analyze ad types, ad mediation and the number of ad libraries embedded in Android apps, and provide guidance for developers on how to integrate third-party ad libraries to maximize revenue.
 
-#### 2. OSN Spam Detection (Summer Camp)
+#### 1. OSN Spam Detection (Summer Camp)
 
 - Lab for Internet and Security Technology (LIST) of Zhejiang University
 - July 2015 - August 2015
@@ -91,7 +98,7 @@ Room 503, Zetong Building, Yuquan Campus, Zhejiang University, 38 Zheda Road, We
 - Perform cluster analysis on all ordered sets in the dataset, and extract frequently occurring invariant strings to generate templates. Meanwhile, use ".*" to match any character between invariant strings.
 - With the generated templates, use REGEXP to match message texts, and report whether they are spams.
 
-#### 3. On-chip Optical Network (National College Students Innovation Experiment Program)
+#### 0. On-chip Optical Network (National College Students Innovation Experiment Program)
 
 - Advanced Networking Technology Lab of Xidian University
 - June 2015 - June 2016
@@ -103,7 +110,7 @@ Room 503, Zetong Building, Yuquan Campus, Zhejiang University, 38 Zheda Road, We
 
 ### Activity
 
-#### 0. Volunteer of Zhejiang Provincial Museum
+#### 2. Volunteer of Zhejiang Provincial Museum
 
 - March 2018 - September 2019
 - Excellent Museum Docent for _Treasures of Zhejiang_ Exhibition
@@ -115,7 +122,7 @@ Room 503, Zetong Building, Yuquan Campus, Zhejiang University, 38 Zheda Road, We
 - Hold the Honor 6-km Marathon (Xi’an, China, 500-people scale)
 - Participator in 1st Huafans Annual Party (Beijing, China, 1000-people scale)
 
-#### 2. Lewei Fund in Xidian University
+#### 0. Lewei Fund in Xidian University
 
 - Maintain the homepage of [Lewei Fund](ilewei.net)
 - Hold a lecture about popularizing first-aid skills (300-people scale)
@@ -127,4 +134,3 @@ Room 503, Zetong Building, Yuquan Campus, Zhejiang University, 38 Zheda Road, We
 
 - Python, Go-lang, C++, Java
 - Program Analysis with LLVM
-
