@@ -66,7 +66,7 @@ Room 503, Zetong Building, Yuquan Campus, Zhejiang University, 38 Zheda Road, We
 
 #### 4. Cloud Native Security
 
-- Internship at Magic Shield (Hangzhou, Zhejiang)
+- Internship at [Magic Shield](http://www.magic-shield.com/) (Hangzhou, Zhejiang)
 - November 2021 - Present
 - Market Research, Competitive Analysis and Product Architecture Design
 - Implement functional modules including Image Vulnerability Scanning and Benchmark Testing
